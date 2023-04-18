@@ -7,7 +7,7 @@ Currently studying Bachelor of Electrical, Computer & Software Systems Engineeri
 - 🌐 Web Infra DevOps  
 - 💾 Embedded Electronics Design, Fabrication & Programming      
 - 📶 RF & Telecommunications Engineering  
-- 🔒 Information Security  
+- 🔒 Offensive Information Security  
 - 🎨 Computer Aided Design & 3D Printing  
   
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/rtemoni/)
