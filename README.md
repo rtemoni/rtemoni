@@ -1,8 +1,8 @@
-### Hi there i'm R. Te Moni👋
+## Hi there i'm R. Te Moni👋
 Currently studying Bachelor of Electrical, Computer & Software Systems Engineering  
 @ Queensland University of Technology (QUT) in Brisbane, Australia  
   
-My specialties include:  
+### My specialties include:  
 - 🤖 ML/DL/AI  
 - 🌐 Web Infra DevOps  
 - 💾 Embedded Electronics Design, Fabrication & Programming      
@@ -10,7 +10,7 @@ My specialties include:
 - 🔒 Information Security  
 - 🎨 Computer Aided Design & 3D Printing  
   
-Connect with me on [LinkedIn](https://www.linkedin.com/in/rtemoni/)
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/rtemoni/)
 <table>
     <thead>
         <th>
