@@ -1,13 +1,20 @@
 ## Hi there i'm R. Te Moni👋
+I am passionate about Sustainable Energy Techology and Cybersecurity 
+  
 Currently studying Bachelor of Electrical, Computer & Software Systems Engineering  
 @ Queensland University of Technology (QUT) in Brisbane, Australia  
+ 
+  
+### Leadership
+- 🔓 2023 President of [QUT White Hats Cybersecurity Student Society](https://qutwhitehats.club/)   
+- 🚀 2022 Rocketry Projects Lead for [QUT Aerospace Student Society](https://qutaerospace.com/)   
   
 ### My specialties include:  
 - 🤖 ML/DL/AI  
 - 🌐 Web Infra DevOps  
 - 💾 Embedded Electronics Design, Fabrication & Programming      
 - 📶 RF & Telecommunications Engineering  
-- 🔒 Offensive Information Security  
+- 🔒 Information Security  
 - 🎨 Computer Aided Design & 3D Printing  
   
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/rtemoni/)
