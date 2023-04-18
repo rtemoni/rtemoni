@@ -9,7 +9,7 @@ Currently studying Bachelor of Electrical, Computer & Software Systems Engineeri
 - 🔓 2023 President of [QUT White Hats Cybersecurity Student Society](https://qutwhitehats.club/)   
 - 🚀 2022 Rocketry Projects Lead for [QUT Aerospace Student Society](https://qutaerospace.com/)   
   
-### My specialties include:  
+### My Specialties Include:  
 - 🤖 ML/DL/AI  
 - 🌐 Web Infra DevOps  
 - 💾 Embedded Electronics Design, Fabrication & Programming      
