@@ -4,6 +4,7 @@ Currently studying Bachelor of Electrical, Computer & Software Systems Engineeri
   
 My specialties include:  
 - 🤖 ML/DL/AI  
+- 🌐 DevOps  
 - 💾 Embedded Electronics Design    
 - 📶 RF & Telecommunications Engineering  
 - 🔒 Information Security  
