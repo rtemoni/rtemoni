@@ -2,6 +2,14 @@
 Currently studying Bachelor of Electrical, Computer & Software Systems Engineering  
 @ Queensland University of Technology (QUT) in Brisbane, Australia  
   
+My specialties include:  
+- ML/DL/AI  
+- Embedded Systems
+- Electronics Design    
+- RF & Telecommunications Engineering  
+- Information Security  
+- Computer Aided Design & 3D Printing  
+  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/rtemoni/)
 <table>
     <thead>
