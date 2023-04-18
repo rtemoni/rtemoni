@@ -17,7 +17,7 @@ Currently studying Bachelor of Electrical, Computer & Software Systems Engineeri
             Skills
         </th>
         <th>
-            badge
+            Badges
         </th>
     </thead>
     <tbody>
