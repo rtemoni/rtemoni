@@ -1,5 +1,5 @@
 ## Hi there i'm R. Te Moni👋
-I am passionate about Sustainable Energy Techology and Cybersecurity 
+I am passionate about Sustainable Energy and Cybersecurity 
   
 Currently studying Bachelor of Electrical, Computer & Software Systems Engineering  
 @ Queensland University of Technology (QUT) in Brisbane, Australia  
