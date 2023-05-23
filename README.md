@@ -1,4 +1,4 @@
-## Hi there i'm R. Te Moni👋
+## Hi there i'm Rani👋
 I am passionate about Sustainable Energy and Cybersecurity 
   
 Currently studying Bachelor of Electrical, Computer & Software Systems Engineering  
