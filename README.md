@@ -1,9 +1,9 @@
-## Hi there i'm Rani👋
-I am passionate about Sustainable Energy and Cybersecurity 
+## Hi there i'm Raniera 👋
+I'm passionate about Technology and building ambitious startups
   
-Currently studying Bachelor of Electrical, Computer & Software Systems Engineering  
-@ Queensland University of Technology (QUT) in Brisbane, Australia  
- 
+### Education 
+- 2023 Graduate of Queensland University of Technology (QUT) in Brisbane, Australia  
+Studied Bachelor of Engineering (Honours) in Electrical, Computer & Software Systems
   
 ### Leadership
 - 🔓 2023 President of [QUT White Hats Cybersecurity Student Society](https://qutwhitehats.club/)   
