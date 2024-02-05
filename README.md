@@ -4,6 +4,7 @@ I'm passionate about Technology and building ambitious startups
 ### Education 
 - 2023 Graduate of Queensland University of Technology (QUT) in Brisbane, Australia  
 Studied Bachelor of Engineering (Honours) in Electrical, Computer & Software Systems
+- 2017 Diploma of Business, TAFE South Brisbane, Australia
   
 ### Leadership
 - 🔓 2023 President of [QUT White Hats Cybersecurity Student Society](https://qutwhitehats.club/)   
