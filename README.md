@@ -6,8 +6,9 @@ I'm passionate about Technology and building ambitious startups
 - 2017 Diploma of Business, TAFE South Brisbane, Australia
   
 ### Leadership
-- 🔓 2023 President of [QUT Cyber Security Club](https://qutwhitehats.club/)   
-- 🚀 2022 Rocketry Projects Lead for [QUT Aerospace Student Society](https://qutaerospace.com/)   
+- 👷‍♂️ Current - Software Development Team Lead, International Cybersecurity Company
+- 🔓 2023 - President of [QUT Cyber Security Club](https://qutwhitehats.club/)   
+- 🚀 2022 - Rocketry Projects Lead for [QUT Aerospace Student Society](https://qutaerospace.com/)   
   
 ### Specialties  
 - 🤖 ML/DL/AI  
