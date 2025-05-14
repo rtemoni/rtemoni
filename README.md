@@ -11,12 +11,11 @@ I'm passionate about bleeding edge tech and building ambitious startups
 - 🚀 2022 - High Powered Rocketry Team Lead for [QUT Aerospace Student Society](https://qutaerospace.com/)   
   
 ### Specialties  
-- 🤖 ML/DL/AI  
-- 🌐 AWS & DevOps
-- 💾 Embedded Electronics Design, Fabrication & Programming      
-- 📶 RF & Telecommunications Engineering  
+- 🤖 Computer Vision, LLMs and Agentic Usage
+- 🌐 DevOps incl CI/CD Pipelines for Automation and QA
+- 💾 WebDev + Native iOS & Android  
 - 🔒 Information Security  
-- 🎨 Computer Aided Design & 3D Printing  
+- 🎨 Fusion360, Blender & 3D Printing  
   
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/rtemoni/)
 <table>
