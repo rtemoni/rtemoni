@@ -6,7 +6,7 @@ I'm passionate about bleeding edge tech and building ambitious startups
 - 2017 Diploma of Business, TAFE South Brisbane, Australia
   
 ### Leadership
-- 👷‍♂️ Current - Software Development Team Lead, International Cybersecurity Company
+- 👷‍♂️ Software Development Team Lead, International Cybersecurity Company (Current Role)
 - 🔓 2023 - President of [QUT Cyber Security Club](https://qutwhitehats.club/)   
 - 🚀 2022 - High Powered Rocketry Team Lead for [QUT Aerospace Student Society](https://qutaerospace.com/)   
   
