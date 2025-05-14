@@ -1,5 +1,5 @@
 ## Hi there i'm Raniera 👋
-I'm passionate about Technology and building ambitious startups
+I'm passionate about bleeding edge tech and building ambitious startups
   
 ### Education 
 - 2023 Bachelor of Engineering (Honours) in Electrical, Computer & Software Systems, Queensland University of Technology.
