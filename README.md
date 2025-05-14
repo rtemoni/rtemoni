@@ -8,7 +8,7 @@ I'm passionate about bleeding edge tech and building ambitious startups
 ### Leadership
 - 👷‍♂️ Current - Software Development Team Lead, International Cybersecurity Company
 - 🔓 2023 - President of [QUT Cyber Security Club](https://qutwhitehats.club/)   
-- 🚀 2022 - Rocketry Projects Lead for [QUT Aerospace Student Society](https://qutaerospace.com/)   
+- 🚀 2022 - High Powered Rocketry Team Lead for [QUT Aerospace Student Society](https://qutaerospace.com/)   
   
 ### Specialties  
 - 🤖 ML/DL/AI  
